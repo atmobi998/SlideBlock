@@ -1,4 +1,4 @@
-# Install script for directory: /home/devmob/devmob_dev/Games/SlideBlock/cocos2d/external/bullet
+# Install script for directory: /home/devmob/nexuszone/Games/SlideBlock/cocos2d/external/bullet
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
